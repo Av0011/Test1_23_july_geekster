@@ -1,0 +1,6 @@
+1/Bat
+2/Ball
+3/Wicket
+4/Pads
+5/Helmet
+6/Shoes
